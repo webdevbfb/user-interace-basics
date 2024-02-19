@@ -1,0 +1,31 @@
+<h1></h1> ... <h6></h6>
+Absatz
+<p></p>
+Starker / Fettgedruckter Text
+<strong></strong>
+Hervorgehobener / kursiver Text
+<em></em>
+Listen
+// unsortiert
+<ul>
+    <li>brot</li>
+    <li>banane</li>
+    <li>apfel</li>
+</ul>
+Verwendet man, wenn die Reihenfolge keine Rolle spielt (unsortiert)
+brot
+banane
+apfel
+ul steht für unordered list
+// geordnet
+<ol>
+    <li>Herr der Ringe</li>
+    <li>Sophie's Welt</li>
+</ol>
+
+Horizontale Linie
+<hr />
+Teiler
+<div></div>
+Break: In der nächsten Zeile anfangen
+<br />
