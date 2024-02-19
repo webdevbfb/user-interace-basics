@@ -25,6 +25,7 @@ ul steht für unordered list
 
 Horizontale Linie
 <hr />
+
 Teiler
 <div></div>
 Break: In der nächsten Zeile anfangen
