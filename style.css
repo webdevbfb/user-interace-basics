@@ -1,4 +1,12 @@
-p,
-      div {
-        color: red;
-      }
+h1 {
+  color: blue;
+  font-weight: normal
+}
+
+.dci-wrapper {
+  color: blue;
+}
+
+main div {
+  color: blue
+}
