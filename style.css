@@ -10,3 +10,9 @@ h1 {
 main div {
   color: blue
 }
+a:hover{
+  color: green
+}
+a:active{
+  color: yellow;
+}
