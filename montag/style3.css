@@ -1,0 +1,52 @@
+main {
+    margin:20px;
+    padding: 20px;
+    background: rgb(189, 84, 189);
+    height: 100vh;
+}
+
+h1,
+h2,
+h3 {
+    color: #474a4a
+}
+
+img {
+    width: 500px;
+    height: 200px;
+    object-fit: cover;
+    /* border: 5px solid white; */
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px 50px 30px 70px;
+}
+
+.img-cover{
+    object-fit: cover;
+}
+
+.img-contain{
+    object-fit: contain;
+}
+
+p {
+    margin: auto;
+    padding: 10px;
+    background: rgba(25, 177, 25, 0.575);
+    min-height: 50px;
+    width: 100%;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+footer {
+    background: #37393d;
+    height: 400px;
+}

@@ -1,0 +1,9 @@
+main {
+    background: #311de6; /* Hintergrundfarbe mit Hex-Wert */
+}
+
+main p {
+    width: 70%;
+    height: 200px;
+    background: rgb(255, 166, 0); /* Hintergrundfarbe mit RGB-Wert */
+}
