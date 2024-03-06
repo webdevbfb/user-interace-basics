@@ -1,0 +1,16 @@
+/* 1 Element - 1 Punkt */
+h1 {
+    color: red;
+  }
+  /* 1 Klasse = 10 Punkte */
+  .heading {
+    color: blue;
+  }
+  /* 1 id = 100 Punkte */
+  #paragraph {
+    color: green;
+  }
+  /* 1 Klasse = 10 Punkte */
+  .text {
+    color: purple;
+  }
